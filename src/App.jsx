@@ -19,7 +19,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero" id="home">
         <div>
-          <h1>Hello, I'm <span>Bijaya Dulal</span></h1>
+          <h1>Hello, I'm <span>Bijaya bullet bike</span></h1>
           <h3>Welcome to My Personal Website</h3>
           <p>
             I am passionate about technology,
