@@ -36,7 +36,7 @@ function App() {
       <section className="about" id="about">
         <h2>About Me</h2>
         <p>
-          My name is Bijaya Dulal.
+          My name is Bijaya Dulal. i am professonal bike mechanics.
           This is my personal website where
           you can learn more about me.
         </p>
